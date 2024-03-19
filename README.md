@@ -1,3 +1,15 @@
+
+
+#screen gif:
+
+![MVC-FORUM](https://github.com/1989zlm/MVC-Forum/assets/146070651/bfbe9fde-0f57-4856-ae8f-a17627102c00)
+
+
+
+
+
+
+
 # kütüphaler
 
 - axios
